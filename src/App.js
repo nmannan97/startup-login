@@ -3,8 +3,10 @@ import Login from './login';
 
 function App() {
   return (
-    <div className="App-header">
-      <Login/>
+    <div className='root'>
+      <div className="App-header">
+        <Login/>
+      </div>
     </div>
   );
 }
