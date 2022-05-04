@@ -3,7 +3,7 @@ import Login from './login';
 
 function App() {
   return (
-    <div className='root'>
+    <div id='root'>
       <div className="App-header">
         <Login/>
       </div>
