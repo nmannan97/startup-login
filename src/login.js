@@ -12,7 +12,7 @@ function Login() {
 
   const handleSubmit = (event) => {
     if(inputs.username == "nmannan" && inputs.password == "nmannan"){
-        window.location.href = 'https://stackoverflow.com/questions/50793148/how-to-redirect-to-a-new-page-from-a-function-in-react'
+        window.location.href = 'https://nmannan97.github.io/startup-app/'
     }
     event.preventDefault();
     alert(inputs);
